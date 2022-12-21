@@ -1,0 +1,21 @@
+.centered {
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+* {
+  font-family: ui-sans-serif, -apple-system, "system-ui", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  word-break: break-word;
+  color: rgb(55, 53, 47);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  line-height: 25px;
+  margin: 10px 0;
+}
