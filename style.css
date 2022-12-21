@@ -1,8 +1,9 @@
 .centered {
   position: absolute;
-  top: 100px;
+  top: 50px;
   left: 50%;
   transform: translate(-50%, 0);
+  padding-bottom: 50px;
 }
 
 * {
@@ -18,4 +19,8 @@ h1 {
 p {
   line-height: 25px;
   margin: 10px 0;
+}
+
+li {
+  line-height: 30px;
 }
